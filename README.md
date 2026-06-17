@@ -6,7 +6,7 @@
 
 <h3>𝔐𝔶 𝔥𝔞𝔯𝔡 𝔰𝔨𝔦𝔩𝔩𝔰</h3>
 <div>
-  <a href="https://nextjs.org"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40" height="40" /></a>&ensp;&ensp;
+  <!-- <a href="https://nextjs.org"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="40" height="40" /></a>&ensp;&ensp; -->
   <a href="https://react.dev"><img src="https://cdn.simpleicons.org/react/FFFFFF" width="40" height="40" /></a>&ensp;&ensp;
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/FFFFFF" width="40" height="40" /></a>&ensp;&ensp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/FFFFFF" width="40" height="40" /></a>&ensp;&ensp;
@@ -29,6 +29,7 @@
 
 <h3>ℑ𝔫 𝔭𝔯𝔬𝔤𝔯𝔢𝔰𝔰</h3>
 <div>
+  <img src="https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&label=" />&nbsp;
   <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/FSD-Methodology-20232A?style=for-the-badge&logo=https://feature-sliced.design/img/brand/logo-monochrome.png&logoColor=FFFFFF" />
 </div>
