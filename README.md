@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=FFFFFF" />&nbsp;
-  <img src="https://img.shields.io/badge/BEM-161B22?style=for-the-badge&logo=https://raw.githubusercontent.com/bem/bem-identity/master/logo/logo_white.svg&logoColor=FFFFFF" />&nbsp;
+  <img src="https://img.shields.io/badge/BEM-Methodology-161B22?style=for-the-badge&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/Responsive-161B22?style=for-the-badge&logo=web-design&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/SCSS-161B22?style=for-the-badge&logo=sass&logoColor=FFFFFF" />&nbsp;
   <img src="https://img.shields.io/badge/REST_API-161B22?style=for-the-badge&logo=postman&logoColor=FFFFFF" />
